@@ -1,6 +1,6 @@
 
 
-## <div align="center">Enhancing Diagnostic Performance on Small Datasets using physics-based data augmentation and domain randomization</div>
+## <div align="center">Enhancing Diagnostic Performance on Small Datasets using Physics-based Data Augmentation and Domain Randomization</div>
 
 
 <p>
