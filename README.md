@@ -1,19 +1,19 @@
 
 
-## <div align="center">Customized Signal Excitation using Gamry Driven by Python</div>
+## <div align="center">Enhancing Diagnostic Performance on Small Datasets using physics-based data augmentation and domain randomization</div>
 
 
 <p>
 <div align="center">
-   <img width="100%"/ src="samples\md info\output.png"></a>
+   <img width="100%"/ src="samples\md info\CNN.png"></a>
 
 </div>
 </p>
 
 
-## <div align="center">Quick Start Examples</div>
+## <div align="center">Keep Updating</div>
 
-A python example [Python Code](Pstat.py) is prepared to implement the potential static measurement using Gamry customized signal excitation. It also could convert to galvanostatic method.
+The CNN [Python Code](ts_model_adaption.py) is applied to classificate the time series data.
 
 
 
