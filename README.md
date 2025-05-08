@@ -13,7 +13,7 @@
 
 ## <div align="center">Keep Updating</div>
 
-The CNN [Python Code](ts_model_adaption.py) is applied to classificate the time series data.
+The CNN [Python Code](ts_model_adaption.py) is applied to classify the time series data.
 
 
 
